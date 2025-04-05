@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{AAE0C31E-60D9-4899-B54A-70330D9AB8FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediReserva", "WebApplication1\MediReserva.csproj", "{AAE0C31E-60D9-4899-B54A-70330D9AB8FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyecto.Domain", "proyecto.Domain\proyecto.Domain.csproj", "{90DC57BA-7D9B-4395-9D54-C1139F25C9E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediReserva.Domain", "proyecto.Domain\MediReserva.Domain.csproj", "{90DC57BA-7D9B-4395-9D54-C1139F25C9E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyecto.Infrastructure", "proyecto.Infrastructure\proyecto.Infrastructure.csproj", "{FC4CF25D-66B0-43FD-9903-CA6942884AA0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediReserva.Infrastructure", "proyecto.Infrastructure\MediReserva.Infrastructure.csproj", "{FC4CF25D-66B0-43FD-9903-CA6942884AA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyecto.Application", "proyecto.Application\proyecto.Application.csproj", "{03284EEB-51AB-48DF-898F-3BE7E1E5F53D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediReserva.Application", "proyecto.Application\MediReserva.Application.csproj", "{03284EEB-51AB-48DF-898F-3BE7E1E5F53D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proyecto.Api", "proyecto.Api\proyecto.Api.csproj", "{67BCDCC9-9584-4F69-872A-DC3CB6F1741C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediReserva.Api", "proyecto.Api\MediReserva.Api.csproj", "{67BCDCC9-9584-4F69-872A-DC3CB6F1741C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

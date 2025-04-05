@@ -16,8 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\proyecto.Application\proyecto.Application.csproj" />
-    <ProjectReference Include="..\proyecto.Infrastructure\proyecto.Infrastructure.csproj" />
+    <ProjectReference Include="..\proyecto.Application\MediReserva.Application.csproj" />
+    <ProjectReference Include="..\proyecto.Infrastructure\MediReserva.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

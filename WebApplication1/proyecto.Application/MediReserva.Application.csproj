@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\proyecto.Infrastructure\proyecto.Infrastructure.csproj" />
+    <ProjectReference Include="..\proyecto.Infrastructure\MediReserva.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
